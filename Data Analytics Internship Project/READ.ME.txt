@@ -1,0 +1,47 @@
+ 📊 Data Analytics Internship Projects – Codveda Technology
+
+ 📝 Overview
+This repository contains the projects I completed during my *Data Analytics Internship at Codveda Technology*.  
+The work includes *Google Colab (Python)* analysis and an *interactive Power BI dashboard*.  
+
+
+ 🛠 Tools & Technologies
+ 🐍 Google Colab (Python, Pandas, Matplotlib, Seaborn, Scikit-learn)
+ 📊 Power BI
+ 📂 Datasets (CSV)
+
+
+
+ 📂 Projects
+
+🔹 Google Colab Project (Single Notebook)
+All tasks were completed in a single .ipynb file covering:  
+🧹 Data Cleaning & Preprocessing*  
+    Handled missing values, duplicates, and standardized data formats.  
+🧮 Exploratory Data Analysis (EDA)*  
+    Summary statistics, correlations, and visualization of patterns.  
+🖥️ Clustering Analysis (K-Means)*  
+    Grouped data points and determined optimal clusters.  
+🧮 Predictive Modeling (Classification)*  
+    Built models (Decision Trees, Logistic Regression, Random Forest) and evaluated with accuracy, precision, recall, and F1-score.  
+
+📄 [Google Colab Notebook](Google_Colab_Projects/ Project 1.py)
+
+
+
+ 📊 Power BI Project
+ Interactive Dashboard  
+   🔹 Designed an *interactive dashboard* to visualize key insights.  
+   🔹Included slicers, filters, and multiple charts for data storytelling.  
+
+📄 [Power BI Dashboard File](PowerBI_Projects/Dashboard.pbix)  
+
+📷 Preview:  
+![Dashboard Screenshot](PowerBI_Projects/screenshots/dashboard.png)
+
+
+
+ 📧 Contact
+ [LinkedIn](www.linkedin.com/in/robin84)  
+ [Email](robi842004@gmail.com)  
+
